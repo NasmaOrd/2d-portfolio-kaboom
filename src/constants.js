@@ -1,23 +1,34 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-  pc: `This is my PC. I work mostly in JavaScript/TypeScript these days.
-    I've made a couple of games in that language. I also like Golang and Python. Anyway regardless of the language, I just like programming.
-    Here is my <a href="https://github.com/jslegenddev" target="_blank">Github</a>!`,
-  "cs-degree": `This is my CS degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
-  "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
-  I also make game programming tutorials on YouTube. Go sub to <a href="https://youtube.com/@jslegenddev" target="_blank">my channel</a>! (If you like the content)
-  You'll learn how I built this portfolio you're currently playing through!`,
-  tv: `That's my TV. I've been watching tech youtubers a lot recently like :
-   <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">Theprimeagen</a>, <a href="https://www.youtube.com/@t3dotgg" target="_blank">Theo - t3.gg</a>,
-  <a href="https://www.youtube.com/@PirateSoftware" target="_blank">PirateSoftware</a> (sometimes) and <a href="https://www.youtube.com/@MelkeyDev" target="_blank">Melkey</a>!`,
-  bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
-  resume: `This is my desk and on it is my resume. <a href="https://github.com/JSLegendDev/Resume/blob/main/JSLegend%20Resume-1.pdf" target="_blank">Check it out?</a>
-  Contact me at jslegend@protonmail.com if you have any interesting job opportunities!`,
-  projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
-  Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. Learn more about how to use
-  Kaboom.js by watching some of my tutorials <a href="https://youtube.com/@jslegenddev" target="_blank">here</a>.`,
-  library: `There are a lot of programming books on my shelves. There is even one in French (I also speak French btw).
-  I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
-  exit: `If you want to exit JSLegendDev's portfolio, just close the tab.`,
+  pc: `Voici mon PC ! Je suis Mohammed Ouedrhiri, ingénieur passionné par le développement web, le Cloud et le DevOps.
+  Je travaille principalement en JavaScript/TypeScript, avec des touches de Python, Bash et Docker. Peu importe le langage, j’aime résoudre des problèmes !
+  Voici mon <a href="https://github.com/ouedrhiri" target="_blank">GitHub</a> si tu veux voir quelques projets.`,
+
+  "cs-degree": `C’est mon diplôme en Architecture Logicielle obtenu à Nantes Université. 
+  Une formation exigeante qui m’a permis d’acquérir des bases solides en systèmes distribués, cloud computing et conception logicielle.`,
+
+  "sofa-table": `Voici mon coin détente. J'y regarde des talks tech, j’analyse des architectures cloud sur YouTube et parfois je m’inspire pour mes projets.
+  Tu peux suivre mon travail ou mes idées sur <a href="https://www.linkedin.com/in/mohammed-ouedrhiri/" target="_blank">LinkedIn</a> !`,
+
+  tv: `Ma TV me sert surtout à apprendre ! Je suis des créateurs comme :
+   <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">ThePrimeagen</a>,
+   <a href="https://www.youtube.com/@t3dotgg" target="_blank">Theo</a>,
+   ou encore des conférences KubeCon et DevOpsDays.`,
+
+  bed: `C’est ici que je dors… ou que j’ai des idées folles à 2h du matin. Mon carnet de notes est souvent plus actif que moi quand je suis allongé.
+  Les meilleures idées viennent souvent du calme.`,
+
+  resume: `Mon CV est sur le bureau ! Tu peux le lire ici :
+  <a href="https://github.com/ouedrhiri/CV/blob/main/Mohammed_Ouedrhiri_CV.pdf" target="_blank">Voir mon CV</a>.
+  Pour toute opportunité de stage DevOps ou Cloud, écris-moi à mohammed.ouedrhiri@etu.univ-nantes.fr.`,
+
+  projects: `Ce portfolio interactif est codé avec Kaboom.js (pour le canvas) et HTML/CSS (pour l'interface).
+  C’est une façon fun de présenter mon profil. Tu veux savoir comment je l’ai fait ? Je t’explique ça volontiers sur GitHub ou en visio !`,
+
+  library: `Voici mes livres techniques. Docker, Kubernetes, Linux, quelques manuels en français, anglais et même un peu d’allemand et de chinois (juste pour la forme).
+  Je suis curieux de tout, même si je n’ai pas encore tout lu.`,
+
+  exit: `Tu quittes le portfolio de Mohammed Ouedrhiri ? Merci d’avoir exploré cet espace interactif ! Reviens quand tu veux, ou contacte-moi directement si tu veux discuter DevOps, Cloud ou projets.`
 };
+
